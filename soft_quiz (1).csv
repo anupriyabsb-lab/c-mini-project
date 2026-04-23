@@ -1,0 +1,101 @@
+Section,Question,CorrectAns
+LogicalMath,15 + 5 * 2,25
+LogicalMath,50 - 10 * 2,30
+LogicalMath,100 / 5 + 7,27
+LogicalMath,9 * 4 - 6,30
+LogicalMath,36 / 6 + 12,18
+LogicalMath,25 + 25 / 5,30
+LogicalMath,8 * 6 - 5,43
+LogicalMath,72 / 8 + 10,19
+LogicalMath,45 - 15 + 5,35
+LogicalMath,14 * 3 - 7,35
+LogicalMath,90 / 9 + 8,18
+LogicalMath,16 + 24 / 6,20
+LogicalMath,11 * 5 - 9,46
+LogicalMath,60 - 20 + 15,55
+LogicalMath,7 * 8 + 2,58
+LogicalMath,84 / 7 + 4,16
+LogicalMath,30 * 2 - 10,50
+LogicalMath,99 - 33 / 3,88
+LogicalMath,6 * 9 + 3,57
+LogicalMath,48 / 6 + 14,22
+LogicalMath,18 + 12 * 2,42
+LogicalMath,27 + 13 - 5,35
+LogicalMath,81 / 9 + 7,16
+LogicalMath,64 / 8 + 9,17
+LogicalMath,20 * 3 - 5,55
+LogicalMath,70 - 15 * 2,40
+LogicalMath,22 * 4 + 6,94
+LogicalMath,120 / 10 + 8,20
+LogicalMath,5 * 7 + 4,39
+LogicalMath,66 / 6 + 11,22
+LogicalMath,40 - 10 * 3,10
+LogicalMath,14 + 16 * 2,46
+LogicalMath,54 / 6 + 13,22
+LogicalMath,32 + 18 / 3,38
+LogicalMath,49 / 7 + 14,21
+LogicalMath,75 - 25 + 20,70
+LogicalMath,10 * 9 - 8,82
+LogicalMath,44 - 22 / 2,33
+LogicalMath,19 * 3 + 1,58
+LogicalMath,81 - 27 + 9,63
+LogicalMath,28 / 7 + 16,20
+LogicalMath,6 * 11 - 5,61
+LogicalMath,95 - 45 + 5,55
+LogicalMath,7 * 6 - 9,33
+LogicalMath,63 / 9 + 8,15
+LogicalMath,13 + 17 * 2,47
+LogicalMath,36 / 4 + 11,20
+LogicalMath,25 + 35 - 15,45
+LogicalMath,8 * 7 + 4,60
+LogicalMath,72 - 18 + 9,63
+LogicalReasoning,What comes next: 4 8 12 16 ?,20
+LogicalReasoning,Find missing number: 2 6 7 21 22 ?,66
+LogicalReasoning,What comes next: 1 4 9 16 ?,25
+LogicalReasoning,Find missing number: 5 12 21 32 ?,45
+LogicalReasoning,What comes next: 3 9 27 ?,81
+LogicalReasoning,Find missing number: 7 14 28 56 ?,112
+LogicalReasoning,What comes next: 100 90 80 70 ?,60
+LogicalReasoning,Find missing number: 11 13 17 19 ?,23
+LogicalReasoning,What comes next: 2 3 5 8 12 ?,17
+LogicalReasoning,Find missing number: 1 3 7 15 ?,31
+LogicalReasoning,If 7x = 42 then x = ?,6
+LogicalReasoning,If 5 machines make 5 items in 5 minutes how many minutes for 1 machine to make 1 item?,5
+LogicalReasoning,What comes next: 9 18 36 ?,72
+LogicalReasoning,Find missing number: 4 9 16 25 ?,36
+LogicalReasoning,If 12 is half of a number what is the number?,24
+LogicalReasoning,What comes next: 6 12 24 48 ?,96
+LogicalReasoning,Find missing number: 8 27 64 125 ?,216
+LogicalReasoning,What comes next: 5 10 20 40 ?,80
+LogicalReasoning,If 15 percent of a number is 45 what is the number?,300
+LogicalReasoning,Find missing number: 2 5 11 23 ?,47
+LogicalReasoning,What comes next: 1 1 2 3 5 8 ?,13
+LogicalReasoning,Find missing number: 13 17 19 23 ?,29
+LogicalReasoning,What comes next: 2 6 12 20 ?,30
+LogicalReasoning,Find missing number: 10 20 40 80 ?,160
+LogicalReasoning,If 9 workers complete work in 9 days how many days for 1 worker?,81
+LogicalReasoning,What comes next: 3 6 12 24 ?,48
+LogicalReasoning,Find missing number: 14 28 56 112 ?,224
+LogicalReasoning,What comes next: 121 144 169 ?,196
+LogicalReasoning,Find missing number: 5 25 125 ?,625
+LogicalReasoning,What comes next: 7 21 63 ?,189
+LogicalReasoning,Find missing number: 16 8 4 2 ?,1
+LogicalReasoning,What comes next: 45 40 35 30 ?,25
+LogicalReasoning,Find missing number: 1 4 7 10 ?,13
+LogicalReasoning,What comes next: 2 4 7 11 16 ?,22
+LogicalReasoning,Find missing number: 81 27 9 3 ?,1
+LogicalReasoning,What comes next: 1 8 27 ?,64
+LogicalReasoning,Find missing number: 6 15 28 45 ?,66
+LogicalReasoning,What comes next: 50 100 200 400 ?,800
+LogicalReasoning,Find missing number: 3 5 9 17 ?,33
+LogicalReasoning,What comes next: 2 10 50 ?,250
+LogicalReasoning,Find missing number: 4 12 36 ?,108
+LogicalReasoning,What comes next: 1000 900 800 ?,700
+LogicalReasoning,Find missing number: 1 2 6 24 ?,120
+LogicalReasoning,What comes next: 7 9 13 21 ?,37
+LogicalReasoning,Find missing number: 2 3 6 18 ?,108
+LogicalReasoning,What comes next: 15 30 60 120 ?,240
+LogicalReasoning,Find missing number: 1 5 14 30 ?,55
+LogicalReasoning,What comes next: 64 32 16 8 ?,4
+LogicalReasoning,Find missing number: 9 19 29 39 ?,49
+LogicalReasoning,What comes next: 11 22 44 88 ?,176

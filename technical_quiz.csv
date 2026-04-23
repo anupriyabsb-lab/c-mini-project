@@ -1,0 +1,201 @@
+language,level,question,option1,option2,option3,option4,correct
+c,easy,Who developed c?,Bjarne Stroustrup,Dennis Ritchie,James Gosling,Guido van Rossum,2
+c,easy,Which symbol ends statement?,.,:,;,!,3
+c,easy,Which header is used for input output?,math.h,stdio.h,string.h,conio.h,2
+c,easy,Which function starts program?,start,main,run,init,2
+c,easy,Which data type stores integer?,float,char,int,double,3
+c,easy,Which data type stores decimal?,int,float,char,long,2
+c,easy,Which keyword is used for condition?,when,if,case,check,2
+c,easy,Which loop is used for iteration?,loop,repeat,for,iterate,3
+c,easy,Which symbol is used for single line comment?,//,##,**,!!,1
+c,easy,Which operator compares equality?,=,!=,==,<,3
+c,easy,Which keyword exits loop?,continue,exit,break,stop,3
+c,easy,Which operator is logical and?,&,&&,||,!,2
+c,easy,Which operator is logical or?,&&,&,||,^,3
+c,easy,Which keyword returns value?,send,output,return,give,3
+c,easy,Which keyword defines constant?,static,const,define,final,2
+c,easy,Which operator is assignment?,==,=,!=,<,2
+c,easy,Which data type stores character?,int,float,char,double,3
+c,easy,Which loop checks condition first?,while,do while,for,switch,1
+c,easy,Which keyword skips iteration?,break,continue,exit,pass,2
+c,easy,Which header is used for math functions?,math.h,stdio.h,string.h,ctype.h,1
+c,moderate,Which concept allows function reuse?,recursion,loop,array,pointer,1
+c,moderate,Which keyword defines structure?,class,struct,define,record,2
+c,moderate,Which operator accesses structure pointer?,.,->,::,:,2
+c,moderate,Which memory allocation is dynamic?,heap,stack,register,cache,1
+c,moderate,Which function allocates memory?,alloc,new,malloc,create,3
+c,moderate,Which function frees memory?,delete,free,remove,clear,2
+c,moderate,Which storage class retains value?,auto,register,static,extern,3
+c,moderate,Which keyword declares external variable?,static,extern,auto,register,2
+c,moderate,Which function reads formatted input?,scanf,printf,gets,puts,1
+c,moderate,Which function prints formatted output?,scanf,puts,printf,gets,3
+c,moderate,Which operator gives address?,*,&,%,#,2
+c,moderate,Which operator dereferences pointer?,&,*,%,#,2
+c,moderate,Which file handling function opens file?,open,fopen,fileopen,read,2
+c,moderate,Which file mode is read only?,r,w,a,x,1
+c,moderate,Which keyword is used for union?,union,struct,class,record,1
+c,difficult,Which memory stores local variables?,heap,stack,global,static,2
+c,difficult,Which memory stores dynamic data?,stack,heap,cache,register,2
+c,difficult,Which operator has highest precedence?,*,+,-,=,1
+c,difficult,Which function moves file pointer?,fseek,fread,fwrite,fclose,1
+c,difficult,Which function closes file?,fclose,fopen,close,exit,1
+c,difficult,Which preprocessor starts with?,#,!,@,$,1
+c,difficult,Which keyword prevents modification?,static,extern,const,auto,3
+c,difficult,Which type of error occurs at runtime?,syntax,compile,logic,runtime,4
+c,difficult,Which function reads string safely?,gets,scanf,fgets,puts,3
+c,difficult,Which function writes string?,puts,gets,fgets,scanf,1
+c,difficult,Which concept uses function calling itself?,loop,array,recursion,pointer,3
+c,difficult,Which keyword ends switch case?,break,stop,end,exit,1
+c,difficult,Which operator is bitwise and?,&&,&,||,^,2
+c,difficult,Which operator is bitwise or?,|,||,&,^,1
+c,difficult,Which header defines exit function?,stdlib.h,stdio.h,math.h,string.h,1
+python,easy,Who developed python?,Dennis Ritchie,Guido van Rossum,James Gosling,Bjarne Stroustrup,2
+python,easy,Python is which type of language?,compiled,interpreted,assembly,machine,2
+python,easy,Which symbol is used for comment?,//,#,**,!!,2
+python,easy,Which keyword defines function?,func,define,def,function,3
+python,easy,Which keyword is used for condition?,if,when,case,check,1
+python,easy,Which loop is used for iteration?,repeat,loop,for,iterate,3
+python,easy,Which data type stores text?,int,float,str,double,3
+python,easy,Which data type stores integer?,float,str,int,char,3
+python,easy,Which data type stores decimal?,int,float,str,bool,2
+python,easy,Which symbol is used for indentation?,tab,space,colon,comma,2
+python,easy,Which operator compares equality?,=,==,!=,<,2
+python,easy,Which keyword exits loop?,continue,stop,break,end,3
+python,easy,Which operator is logical and?,&,&&,and,or,3
+python,easy,Which operator is logical or?,||,or,and,&,2
+python,easy,Which keyword returns value?,return,give,send,output,1
+python,easy,Which keyword defines class?,class,struct,object,define,1
+python,easy,Which function prints output?,print,echo,write,display,1
+python,easy,Which function takes input?,input,scan,read,get,1
+python,easy,Which data type stores true false?,bool,int,str,float,1
+python,easy,Which bracket is used for list?,{},(),[],<>,3
+python,moderate,Which concept hides data?,encapsulation,loop,array,condition,1
+python,moderate,Which concept allows reuse?,inheritance,loop,array,tuple,1
+python,moderate,Which concept allows many forms?,polymorphism,loop,array,string,1
+python,moderate,Which keyword handles exception?,try,catch,handle,check,1
+python,moderate,Which block catches exception?,except,catch,handle,finally,1
+python,moderate,Which keyword is used for lambda?,lambda,func,define,map,1
+python,moderate,Which function converts to integer?,int,str,float,bool,1
+python,moderate,Which function converts to string?,string,str,int,convert,2
+python,moderate,Which function gives length?,count,len,size,length,2
+python,moderate,Which data structure allows key value?,list,set,tuple,dict,4
+python,moderate,Which structure does not allow duplicates?,set,list,dict,tuple,1
+python,moderate,Which keyword is used for generator?,yield,return,generate,next,1
+python,moderate,Which file mode is read only?,r,w,a,x,1
+python,moderate,Which method adds element to list?,append,add,insert,push,1
+python,moderate,Which method removes element from list?,delete,remove,clear,pop,4
+python,difficult,Which memory stores objects?,heap,stack,register,cache,1
+python,difficult,Which keyword creates virtual environment?,venv,env,virtual,create,1
+python,difficult,Which module is used for random numbers?,math,random,os,sys,2
+python,difficult,Which module is used for system functions?,sys,math,os,random,1
+python,difficult,Which method opens file?,open,fileopen,readfile,start,1
+python,difficult,Which keyword is used for asynchronous function?,async,await,thread,parallel,1
+python,difficult,Which keyword waits for async result?,wait,async,await,pause,3
+python,difficult,Which decorator defines static method?,@static,@staticmethod,@class,@method,2
+python,difficult,Which decorator defines class method?,@class,@classmethod,@static,@method,2
+python,difficult,Which library is used for data analysis?,numpy,pandas,math,random,2
+python,difficult,Which library is used for numerical computing?,pandas,numpy,matplotlib,random,2
+python,difficult,Which function evaluates expression?,eval,execute,run,compile,1
+python,difficult,Which keyword deletes variable?,del,delete,remove,clear,1
+python,difficult,Which method sorts list permanently?,sort,sorted,arrange,order,1
+python,difficult,Which function returns iterator?,iter,loop,next,range,1
+c++,easy,Who developed c++?,Dennis Ritchie,Bjarne Stroustrup,Guido van Rossum,James Gosling,2
+c++,easy,c++ is extension of which language?,java,python,c,c#,3
+c++,easy,Which header is used for input output?,iostream,stdio.h,math.h,string.h,1
+c++,easy,Which object is used for output?,cout,cin,printf,scan,1
+c++,easy,Which object is used for input?,cout,input,cin,read,3
+c++,easy,Which operator is used with cout?,>>,<<,::,&&,2
+c++,easy,Which symbol ends statement?,.,:,;,!,3
+c++,easy,Which function starts program?,start,main,run,init,2
+c++,easy,Which data type stores integer?,float,char,int,double,3
+c++,easy,Which data type stores decimal?,int,float,char,long,2
+c++,easy,Which keyword defines class?,class,struct,define,object,1
+c++,easy,Which keyword creates object?,new,create,malloc,make,1
+c++,easy,Which operator compares equality?,=,==,!=,<,2
+c++,easy,Which loop is used for iteration?,repeat,loop,for,iterate,3
+c++,easy,Which keyword exits loop?,continue,exit,break,stop,3
+c++,easy,Which symbol is used for single line comment?,//,##,**,!!,1
+c++,easy,Which keyword is used for condition?,when,if,case,check,2
+c++,easy,Which keyword returns value?,send,return,give,output,2
+c++,easy,Which operator is logical and?,&,&&,||,!,2
+c++,easy,Which operator is logical or?,&&,&,||,^,3
+c++,moderate,Which concept hides data?,encapsulation,loop,array,string,1
+c++,moderate,Which concept allows reuse?,inheritance,condition,loop,variable,1
+c++,moderate,Which concept allows many forms?,polymorphism,array,string,loop,1
+c++,moderate,Which operator accesses class member?,.,->,::,:,1
+c++,moderate,Which operator accesses pointer member?,.,->,::,:,2
+c++,moderate,Which keyword prevents inheritance?,final,static,const,void,1
+c++,moderate,Which keyword is used for namespace?,namespace,package,import,using,1
+c++,moderate,Which keyword is used for exception handling?,try,check,handle,test,1
+c++,moderate,Which block catches exception?,catch,handle,except,finally,1
+c++,moderate,Which keyword throws exception?,throw,try,catch,handle,1
+c++,moderate,Which function allocates memory?,malloc,new,alloc,create,2
+c++,moderate,Which function frees memory?,delete,free,remove,clear,1
+c++,moderate,Which keyword declares constant?,const,define,static,final,1
+c++,moderate,Which keyword defines template?,template,generic,type,format,1
+c++,moderate,Which concept supports operator overloading?,polymorphism,inheritance,encapsulation,loop,1
+c++,difficult,Which memory stores local variables?,heap,stack,global,static,2
+c++,difficult,Which memory stores dynamic data?,stack,heap,cache,register,2
+c++,difficult,Which operator has highest precedence?,*,+,-,=,1
+c++,difficult,Which keyword is used for virtual function?,virtual,override,static,inline,1
+c++,difficult,Which concept is runtime polymorphism?,method overriding,method overloading,constructor,loop,1
+c++,difficult,Which concept is compile time polymorphism?,method overloading,method overriding,inheritance,encapsulation,1
+c++,difficult,Which function is constructor?,same name as class,main,init,start,1
+c++,difficult,Which function is destructor?,~class name,delete,remove,clear,1
+c++,difficult,Which library contains vector?,vector,list,array,map,1
+c++,difficult,Which library contains map?,map,set,list,array,1
+c++,difficult,Which keyword avoids multiple inheritance problem?,virtual,static,const,override,1
+c++,difficult,Which operator is scope resolution?,::,.,->,:,1
+c++,difficult,Which keyword is used for inline function?,inline,static,const,virtual,1
+c++,difficult,Which file extension is for c++?,.cpp,.c,.java,.py,1
+c++,difficult,Which header is modern replacement of stdio?,cstdio,stdio.h,math.h,string.h,1
+java,easy,Who developed java?,Dennis Ritchie,James Gosling,Guido van Rossum,Bjarne Stroustrup,2
+java,easy,Java was developed at?,Microsoft,Google,Sun Microsystems,IBM,3
+java,easy,Java is which type of language?,procedural,object oriented,functional,scripting,2
+java,easy,Which keyword defines class?,define,class,struct,object,2
+java,easy,Which method starts program?,start,run,main,init,3
+java,easy,Which keyword creates object?,create,new,malloc,make,2
+java,easy,Which symbol ends statement?,.,:,;,!,3
+java,easy,Which data type stores integer?,float,char,int,double,3
+java,easy,Which data type stores decimal?,int,float,char,boolean,2
+java,easy,Which keyword is used for condition?,when,if,switcher,caseof,2
+java,easy,Which loop is used for iteration?,repeat,loop,for,iterate,3
+java,easy,Which symbol is used for single line comment?,//,##,**,!!,1
+java,easy,Which operator compares equality?,=,!=,==,<,3
+java,easy,Which keyword exits loop?,continue,exit,break,stop,3
+java,easy,Which operator is logical and?,&,&&,||,!,2
+java,easy,Which operator is logical or?,&&,&,||,^,3
+java,easy,Which keyword returns value?,send,return,give,output,2
+java,easy,Which keyword defines constant?,static,const,final,define,3
+java,easy,Which keyword inherits class?,implements,extends,inherits,super,2
+java,easy,Which keyword imports package?,include,using,import,package,3
+java,moderate,Which concept hides data?,encapsulation,loop,array,string,1
+java,moderate,Which concept allows reuse?,inheritance,condition,loop,variable,1
+java,moderate,Which concept allows many forms?,polymorphism,array,string,loop,1
+java,moderate,Constructor has same name as?,method,variable,class,object,3
+java,moderate,Which keyword prevents inheritance?,final,static,const,void,1
+java,moderate,Which access specifier allows everywhere?,private,protected,public,default,3
+java,moderate,Which access specifier is default?,default,public,private,protected,1
+java,moderate,Which keyword is used for interface?,interface,abstract,implements,extends,1
+java,moderate,Which keyword implements interface?,extends,implements,inherit,apply,2
+java,moderate,Which block handles exception?,catch,try,throw,handle,1
+java,moderate,Which keyword throws exception?,throw,try,catch,handle,1
+java,moderate,Which exception is unchecked?,ioexception,runtimeexception,sql exception,file not found,2
+java,moderate,Which keyword is used for abstraction?,abstract,final,static,void,1
+java,moderate,Which keyword is used for package creation?,import,include,package,namespace,3
+java,moderate,Which keyword refers parent class?,this,super,parent,base,2
+java,difficult,Which method starts thread?,run,start,main,init,2
+java,difficult,Which keyword is used for multithreading?,thread,runnable,start,run,2
+java,difficult,Which collection does not allow duplicates?,list,set,array,map,2
+java,difficult,Which collection stores key value pair?,set,list,array,map,4
+java,difficult,Which package contains collection framework?,java.io,java.lang,java.util,java.sql,3
+java,difficult,Which class is parent of all classes?,class,main,object,super,3
+java,difficult,Which keyword refers current class?,this,super,parent,base,1
+java,difficult,Which method is used for garbage collection?,delete,remove,finalize,clear,3
+java,difficult,Which memory stores objects?,stack,heap,register,cache,2
+java,difficult,Which memory stores local variables?,heap,stack,global,static,2
+java,difficult,Which keyword prevents method override?,static,const,final,abstract,3
+java,difficult,Which type of polymorphism is runtime?,method overriding,method overloading,constructor,loop,1
+java,difficult,Which type of polymorphism is compile time?,method overriding,method overloading,inheritance,encapsulation,2
+java,difficult,Which keyword defines abstract method?,abstract,static,final,void,1
+java,difficult,Which interface is used for list structure?,map,set,list,queue,3
